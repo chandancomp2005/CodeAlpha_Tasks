@@ -1,4 +1,4 @@
-# 🐍 Python Mini Projects (Task 1, Task 2, Task 3)
+# 🐍 Python Mini Projects 
 
 This repository contains **3 Python mini projects** designed to practice core programming concepts like loops, conditions, lists, dictionaries, random module, and file handling.
 

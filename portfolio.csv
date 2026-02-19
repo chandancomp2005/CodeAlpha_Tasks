@@ -1,0 +1,6 @@
+Stock,Quantity,Price,Value
+AAPL,100,180,18000
+TSLA,200,250,50000
+GOOG,300,140,42000
+
+Total,,,110000
